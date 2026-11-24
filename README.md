@@ -1,8 +1,8 @@
 # News Image 20261123
 
 [![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/c/news-image-20261123)
-[![rank](https://make.fun/badge/news-image-20261123/rank.svg)](https://make.fun/c/news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/reward.svg)](https://make.fun/c/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Shanumameyra/news-image-20261123/rank.svg)](https://make.fun/c/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Shanumameyra/news-image-20261123/reward.svg)](https://make.fun/c/news-image-20261123)
 
 A one-image summary of the world's news of **Monday 23 November 2026**,
 drawn as a newspaper front page: *THE WORLD TODAY*.

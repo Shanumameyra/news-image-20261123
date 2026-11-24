@@ -4,6 +4,7 @@
 Deterministic: fixed layout, fixed fonts, fixed colours, no timestamps,
 no randomness, no network. Run:  python3 draw_image.py
 Writes entry.png (1024 x 1024) next to this script.
+Layout note: lead story on top, then a 3x3 grid of nine more stories.
 """
 import textwrap
 from PIL import Image, ImageDraw, ImageFont
